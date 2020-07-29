@@ -26,7 +26,7 @@ SECRET_KEY = 'qvleam#onl%e9g_o%ltm+pz+fctr(m8-w!5o9i_6*cpuvua^jw'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['arekfl.pythonanywhere.com','localhost']
 
 
 # Application definition
